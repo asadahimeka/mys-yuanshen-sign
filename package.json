@@ -1,0 +1,15 @@
+{
+  "name": "mys-yuanshen-sign",
+  "version": "1.0.0",
+  "description": "Auto sign mihoyobbs daily login bonus.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "node-schedule": "^2.1.0",
+    "uuid": "^8.3.2"
+  }
+}
