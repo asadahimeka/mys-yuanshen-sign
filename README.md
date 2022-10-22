@@ -1,5 +1,7 @@
 # mys-yuanshen-sign
 
+**!! No longer available !!**
+
 ## Usage
 
 1. Add you mihoyobbs cookie to `config.json`.
